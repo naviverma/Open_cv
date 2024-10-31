@@ -1,0 +1,3 @@
+/Users/navi/Desktop/open_cv/Assignment/build/CMakeFiles/MyProject.dir
+/Users/navi/Desktop/open_cv/Assignment/build/CMakeFiles/edit_cache.dir
+/Users/navi/Desktop/open_cv/Assignment/build/CMakeFiles/rebuild_cache.dir
